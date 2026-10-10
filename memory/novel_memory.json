@@ -1,0 +1,208 @@
+{
+    "novel_metadata":  {
+                           "title_en":  "Omniscient Reader\u0027s Viewpoint",
+                           "title_ar":  "وجهة نظر القارئ العليم",
+                           "abbreviation":  "ORV",
+                           "source_language":  "English",
+                           "target_language":  "Arabic (فصحى حديثة متدفقة)",
+                           "file_format":  "Markdown (.md)",
+                           "last_updated":  "2026-10-09"
+                       },
+    "translation_progress":  {
+                                 "completed_chapters":  [
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch1_ar.md",
+                                                                "source":  "ch1.md",
+                                                                "date":  "2026-10-09"
+                                                            },
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch2_ar.md",
+                                                                "source":  "ch2.md",
+                                                                "date":  "2026-10-09"
+                                                            },
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch3_ar.md",
+                                                                "source":  "ch3.md",
+                                                                "date":  "2026-10-09"
+                                                            },
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch4_ar.md",
+                                                                "source":  "ch4.md",
+                                                                "date":  "2026-10-09"
+                                                            },
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch5_ar.md",
+                                                                "source":  "ch5.md",
+                                                                "date":  "2026-10-09"
+                                                            },
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch6_ar.md",
+                                                                "source":  "ch6.md",
+                                                                "date":  "2026-10-09"
+                                                            },
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch7_ar.md",
+                                                                "source":  "ch7.md",
+                                                                "date":  "2026-10-09"
+                                                            },
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch8_ar.md",
+                                                                "source":  "ch8.md",
+                                                                "date":  "2026-10-09"
+                                                            },
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch9_ar.md",
+                                                                "source":  "ch9.md",
+                                                                "date":  "2026-10-09"
+                                                            },
+                                                            {
+                                                                "status":  "completed",
+                                                                "target":  "ch10_ar.md",
+                                                                "source":  "ch10.md",
+                                                                "date":  "2026-10-09"
+                                                            }
+                                                        ],
+                                 "next_chapter_to_translate":  "ch11.md",
+                                 "total_translated":  10,
+                                 "translation_limit":  "ch10.md",
+                                 "total_chapters_available":  10
+                             },
+    "style_profile":  {
+                          "narrator_pov":  "First-Person (Kim Dokja - كيم دوكجا)",
+                          "dialogue_tone":  "فصحى معاصرة رشيقة، طبيعية وواقعية، خالية من التكلف المعجمي النيش وبدون ركاكة كان/تم. تعريب سياقي لا ترجمة حرفية.",
+                          "system_message_style":  "نصوص رسائل النظام والأبراج توضع بين أقواس مربعة بلغة إجرائية مقتضبة [مثال: انطلق السيناريو الرئيسي.]",
+                          "rules":  [
+                                        "صيغة الملفات: جميع ملفات المدخلات والمخرجات بصيغة Markdown (.md).",
+                                        "الصور والرسومات: الحفاظ الكامل على روابط الصور المضمنة ![alt](url) ونقلها كما هي في نفس مواضعها الدقيقة داخل الملف المترجم .md.",
+                                        "ترجمة أدبية أمينة دقيقة: ممنوع تماماً الاختصار، الحذف، التلخيص، أو التحريف (Zero Hallucination).",
+                                        "الالتزام بقواعد البلاغة: نبذ ركاكة كان/كانت في السرد، ونبذ صيغ تم+المصدر.",
+                                        "الالتزام الصارم بأسماء الشخصيات والمصطلحات المسجلة في هذا القاموس دون أي تغيير.",
+                                        "التعريب السياقي: اختيار المعنى المناسب للسياق لا المعنى المعجمي الأول (canonical=رسمي لا قانوني، fluffy=وبري لا رقيق، captain في قطار=سائق لا قائد).",
+                                        "تأنيث وتذكير دقيق: التحقق من جنس الشخصية قبل كل ضمير وصفة.",
+                                        "منع المفعول المطلق الثقيل عند توفر حرف جر أخف (ابتسمت بإشراق لا ابتسمت ابتسامة مشرقة).",
+                                        "استخدام \u0027ما إن كان\u0027 بدل \u0027إن كان\u0027 في سياق التساؤل لسلاسة طبيعية.",
+                                        "السياق المكاني: ترجمة بحسب المشهد (room في مترو = عربة لا غرفة)."
+                                    ]
+                      },
+    "glossary":  {
+                     "characters":  {
+                                        "Kim Dokja":  {
+                                                          "ar":  "كيم دوكجا",
+                                                          "description":  "البطل والراوي (القارئ الوحيد للرواية، 28 عاماً)"
+                                                      },
+                                        "tls123":  {
+                                                       "ar":  "tls123",
+                                                       "description":  "مؤلف رواية \u0027طرق النجاة\u0027"
+                                                   },
+                                        "Yoo Sangah":  {
+                                                           "ar":  "يو سانغاه",
+                                                           "description":  "زميلة كيم دوكجا في فريق الموارد البشرية"
+                                                       },
+                                        "Lee Hyunsung":  {
+                                                             "ar":  "لي هيونسونغ",
+                                                             "description":  "ملازم في الجيش، الوحدة 6502، سيف الفولاذ"
+                                                         },
+                                        "Han Myungoh":  {
+                                                            "ar":  "هان ميونغ-أوه",
+                                                            "description":  "رئيس قسم المالية في الشركة"
+                                                        },
+                                        "Kim Namwoon":  {
+                                                            "ar":  "كيم ناموون",
+                                                            "description":  "طالب ثانوية تشونغيل، شونبيو، شيطان الأوهام"
+                                                        },
+                                        "Lee Jihye":  {
+                                                          "ar":  "لي جيهي",
+                                                          "description":  "طالبة ثانوية دابونغ للبنات"
+                                                      },
+                                        "Lee Gilyoung":  {
+                                                             "ar":  "لي غيليونغ",
+                                                             "description":  "الصبي صاحب شبكة جمع الحشرات"
+                                                         },
+                                        "Yoo Joonghyuk":  {
+                                                              "ar":  "يو جونغهيوك",
+                                                              "description":  "بطل رواية \u0027طرق النجاة\u0027، العائد بالزمن (الدورة 3)"
+                                                          }
+                                    },
+                     "novels_and_authors":  {
+                                                "Three Ways to Survive in a Ruined World":  "ثلاث طرق للنجاة في عالم مدمر",
+                                                "Ways of Survival":  "طرق النجاة",
+                                                "The World after the Fall":  "العالم بعد السقوط",
+                                                "Sing Shong":  "سينغ شونغ"
+                                            },
+                     "constellations_and_modifiers":  {
+                                                          "Steel Sword":  "سيف الفولاذ",
+                                                          "Delusion Demon":  "شيطان الأوهام",
+                                                          "Abyssal Black Flame Dragon":  "تنين اللهب الأسود الهاوي",
+                                                          "Demon-like Judge of Fire":  "قاضية النار شبيهة الشياطين",
+                                                          "Secretive Plotter":  "المخطط السري",
+                                                          "Prisoner of the Golden Headband":  "سجين الطوق الذهبي",
+                                                          "Master of Steel":  "سيد الفولاذ",
+                                                          "Lame Trickster":  "المحتال الأعرج"
+                                                      },
+                     "skills_and_stigmas":  {
+                                                "Omniscient Reader\u0027s Viewpoint":  "وجهة نظر القارئ العليم",
+                                                "Character List":  "قائمة الشخصيات",
+                                                "Character Summary":  "ملخص الشخصية",
+                                                "Bookmark":  "إشارة مرجعية",
+                                                "Blackening":  "السواد",
+                                                "Unusual Adaptability":  "تكيف غير عادي",
+                                                "Knife Fighting":  "قتال السكاكين",
+                                                "Great Mountain Push":  "دفع الجبل العظيم",
+                                                "One-legged Swift Horse":  "الحصان السريع أحادي الساق",
+                                                "Sage\u0027s Eye":  "عين الحكيم",
+                                                "Hand to Hand Combat":  "القتال المتلاحم",
+                                                "Weapons Training":  "التدريب على الأسلحة",
+                                                "Mental Barrier":  "الحاجز العقلي",
+                                                "Crowd Control":  "السيطرة على الحشود",
+                                                "Reasoning":  "الاستنتاج",
+                                                "Lie Detection":  "كشف الكذب",
+                                                "Bayonet Skills":  "مهارات الحربة",
+                                                "Camouflage":  "التمويه",
+                                                "Patience":  "الصبر"
+                                            },
+                     "scenarios_and_system_terms":  {
+                                                        "Scenario":  "سيناريو",
+                                                        "Main Scenario":  "السيناريو الرئيسي",
+                                                        "Sub Scenario":  "السيناريو الفرعي",
+                                                        "planetary system 8612":  "المنظومة الكوكبية 8612",
+                                                        "Coins":  "عملات",
+                                                        "Attribute":  "سمة",
+                                                        "Exclusive Attribute":  "سمة حصرية",
+                                                        "Exclusive Skill":  "مهارة حصرية",
+                                                        "Attribute Window":  "نافذة السمات",
+                                                        "Stigma":  "وصمة",
+                                                        "Incarnation":  "تجسيد",
+                                                        "Constellation":  "كوكبة",
+                                                        "Dokkaebi":  "دوكايبى",
+                                                        "Streamer":  "بث / ستريمر",
+                                                        "Sponsor Selection":  "اختيار الكفيل",
+                                                        "Deus Ex Machina":  "آلة الآلهة (ديوس إكس ماكينا)",
+                                                        "Demonic person":  "بشري شيطاني",
+                                                        "Black ether":  "الأثير الأسود",
+                                                        "Regressor":  "عائد بالزمن"
+                                                    },
+                     "locations_and_factions":  {
+                                                    "Blue House":  "البيت الأزرق",
+                                                    "Dongho Bridge":  "جسر دونغهو",
+                                                    "Oksu Station":  "محطة أوكسو",
+                                                    "Black Cloud":  "السحابة السوداء"
+                                                },
+                     "monsters":  {
+                                      "Ichthyosaur":  "إكثيوصور",
+                                      "Ground rat":  "جرذ الأرض",
+                                      "Kruk":  "كروك"
+                                  },
+                     "items_and_relics":  {
+
+                                          }
+                 }
+}
