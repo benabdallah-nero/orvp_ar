@@ -1,4 +1,4 @@
-{
+﻿{
     "novel_metadata":  {
                            "title_en":  "Omniscient Reader\u0027s Viewpoint",
                            "title_ar":  "وجهة نظر القارئ العليم",
@@ -6,7 +6,7 @@
                            "source_language":  "English",
                            "target_language":  "Arabic (فصحى حديثة متدفقة)",
                            "file_format":  "Markdown (.md)",
-                           "last_updated":  "2026-10-09"
+                           "last_updated":  "2026-10-10"
                        },
     "translation_progress":  {
                                  "completed_chapters":  [
@@ -14,64 +14,22 @@
                                                                 "status":  "completed",
                                                                 "target":  "ch1_ar.md",
                                                                 "source":  "ch1.md",
-                                                                "date":  "2026-10-09"
+                                                                "date":  "2026-10-10"
                                                             },
                                                             {
                                                                 "status":  "completed",
                                                                 "target":  "ch2_ar.md",
                                                                 "source":  "ch2.md",
-                                                                "date":  "2026-10-09"
+                                                                "date":  "2026-10-10"
                                                             },
                                                             {
                                                                 "status":  "completed",
                                                                 "target":  "ch3_ar.md",
                                                                 "source":  "ch3.md",
-                                                                "date":  "2026-10-09"
-                                                            },
-                                                            {
-                                                                "status":  "completed",
-                                                                "target":  "ch4_ar.md",
-                                                                "source":  "ch4.md",
-                                                                "date":  "2026-10-09"
-                                                            },
-                                                            {
-                                                                "status":  "completed",
-                                                                "target":  "ch5_ar.md",
-                                                                "source":  "ch5.md",
-                                                                "date":  "2026-10-09"
-                                                            },
-                                                            {
-                                                                "status":  "completed",
-                                                                "target":  "ch6_ar.md",
-                                                                "source":  "ch6.md",
-                                                                "date":  "2026-10-09"
-                                                            },
-                                                            {
-                                                                "status":  "completed",
-                                                                "target":  "ch7_ar.md",
-                                                                "source":  "ch7.md",
-                                                                "date":  "2026-10-09"
-                                                            },
-                                                            {
-                                                                "status":  "completed",
-                                                                "target":  "ch8_ar.md",
-                                                                "source":  "ch8.md",
-                                                                "date":  "2026-10-09"
-                                                            },
-                                                            {
-                                                                "status":  "completed",
-                                                                "target":  "ch9_ar.md",
-                                                                "source":  "ch9.md",
-                                                                "date":  "2026-10-09"
-                                                            },
-                                                            {
-                                                                "status":  "completed",
-                                                                "target":  "ch10_ar.md",
-                                                                "source":  "ch10.md",
-                                                                "date":  "2026-10-09"
+                                                                "date":  "2026-10-10"
                                                             }
                                                         ],
-                                 "next_chapter_to_translate":  "ch11.md",
+                                 "next_chapter_to_translate":  "ch4.md",
                                  "total_translated":  10,
                                  "translation_limit":  "ch10.md",
                                  "total_chapters_available":  10
